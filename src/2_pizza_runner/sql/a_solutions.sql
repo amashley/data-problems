@@ -3,7 +3,7 @@
 
 -- Setup --
 
--- Before running any query in a new session, make sure to run the setup script first
+-- Create a new duckdb session using the setup script (`duckdb -init setup.sql`)
 
 
 -- A. Pizza Metrics --
