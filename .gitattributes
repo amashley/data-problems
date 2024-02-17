@@ -1,0 +1,15 @@
+# Default
+* text=auto
+
+
+# Text files
+*.md linguist-detectable
+*.md text
+*.py text
+*.sql linguist-detectable
+*.sql text
+
+
+# Binary files
+*.png binary
+*.svg binary
